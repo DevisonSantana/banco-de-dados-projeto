@@ -1,5 +1,7 @@
 ~~~psql
 
+-- CRIAÇÃO DE TABELAS
+
 create table clientes(
   id_clientes serial PRIMARY KEY,
   nome VARCHAR(30) not NULL,
@@ -81,6 +83,9 @@ VALUES
 ('img//produtos/mesaGamer1.jpg', 7),
 ('img//produtos/mesaGamer2.jpg', 7),
 ('img//produtos/mesaGamer3.jpg', 7);
+~~~
+
+~~~psql
 
 -- CONSULTAS PSQL
 
