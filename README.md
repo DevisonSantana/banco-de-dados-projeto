@@ -156,8 +156,8 @@ Membros colaboradores:
 [![GitHub](https://img.shields.io/badge/devison-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevisonSantana)<br>
 
 
-<footer style="text-align: center">
+<div align="center">
 
 Agradecimento especial ao nosso tutor: Alvaro Neto ❤
 
-</footer>
+</div>
